@@ -31,12 +31,14 @@ This project is ideal for beginners to understand:
 
 ## 📁 Project Structure
 
+```text
 random-number-guessing-game/
-│
 ├── index.html      # Main HTML file
 ├── style.css       # Styling
 ├── script.js       # Game logic
 └── README.md       # Project documentation
+```
+
 
 ## ▶️ How to Run Locally
 
